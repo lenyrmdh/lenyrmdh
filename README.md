@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&center=true&vCenter=true&lines=%F0%9F%8C%9F+Welcome+to+My+GitHub+Profile!+%F0%9F%8C%9F;Hello!+I'm+Leny!;Let's+learn+and+grow+together!+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ADEF&center=true&vCenter=true&lines=%F0%9F%8C%9F+Welcome+to+My+GitHub+Profile!+%F0%9F%8C%9F;Hello!+I'm+Leny!;Let's+learn+and+grow+together!+%F0%9F%9A%80" />
 </p>
