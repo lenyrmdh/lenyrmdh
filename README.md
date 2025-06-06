@@ -5,7 +5,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00ADEF&center=true&vCenter=true&lines=%F0%9F%8C%9F+Welcome+to+My+GitHub+Profile!+%F0%9F%8C%9F;Hello!+I'm+Leny!;Let's+learn+and+grow+together!+%F0%9F%9A%80" />
 </p>
-<img src="https://media.tenor.com/W1r60JzRIvQAAAAC/pocoyo.gif" width="200"/>
+
+<p align="center">
+  <img src="https://media.tenor.com/W1r60JzRIvQAAAAC/pocoyo.gif" width="200"/>
+</p>
 
 ### 🌟 Hi there!
 
@@ -40,4 +43,4 @@ Saya Leni! Selamat datang di profil GitHub saya!
 ### 📫 Contact Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white)](https://instagram.com/lenirmdh)  
-✉️ Email: [setiawan.lenyramadhani@gmail.com](mailto:setiawan.lenyramadhani@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:setiawan.lenyramadhani@gmail.com)
