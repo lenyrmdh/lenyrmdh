@@ -39,12 +39,34 @@ Yuk, jelajahi profil ini dan mari berkembang bersama!
 ### 📊 Statistik GitHub Saya
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leni&theme=radical" alt="GitHub Streak" width="400" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leni&layout=compact&theme=radical" alt="Top Languages" width="350"/>
-  <br/><br/>
-  ![GitHub followers](https://img.shields.io/github/followers/leni?style=for-the-badge)
+
+<!-- Total kontribusi dan commits -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=leni&theme=dark&hide_border=true" alt="GitHub Streak" width="450"/>
+
+<br/>
+
+<!-- Statistik repositori dan followers -->
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/github/repos/leni?style=for-the-badge&color=2bbc8a" alt="Public Repos" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/followers/leni?style=for-the-badge&color=2bbc8a" alt="Followers" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/commit-activity/m/leni?style=for-the-badge&color=2bbc8a" alt="Commit Activity" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Bahasa Pemrograman paling sering -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leni&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="450"/>
+
 </div>
+
 
 ---
 
