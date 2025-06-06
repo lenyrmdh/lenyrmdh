@@ -39,8 +39,11 @@ Yuk, jelajahi profil ini dan mari berkembang bersama!
 ### 📊 Statistik GitHub Saya
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leni&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="350"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leni&layout=compact&theme=radical" alt="Top Languages" width="320"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leni&theme=radical" alt="GitHub Streak" width="400" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leni&layout=compact&theme=radical" alt="Top Languages" width="350"/>
+  <br/><br/>
+  ![GitHub followers](https://img.shields.io/github/followers/leni?style=for-the-badge)
 </div>
 
 ---
